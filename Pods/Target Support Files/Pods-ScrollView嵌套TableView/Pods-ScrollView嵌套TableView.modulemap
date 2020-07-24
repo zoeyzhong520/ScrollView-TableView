@@ -1,0 +1,6 @@
+framework module Pods_ScrollView__TableView {
+  umbrella header "Pods-ScrollView嵌套TableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
